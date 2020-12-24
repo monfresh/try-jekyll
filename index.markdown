@@ -10,3 +10,5 @@ Welcome to My Home Page
 
 - Original date - {{ date }}
 - With timeago filter - {{ date | timeago }}
+
+This is a new change to the index page.
