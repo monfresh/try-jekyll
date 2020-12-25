@@ -12,3 +12,5 @@ Welcome to My Home Page
 - With timeago filter - {{ date | timeago }}
 
 This is a new change to the index page.
+
+Let's see if this shows up after building on main, then adding contents of _site to gh-pages branch and pushing, without using GitHub Actions.
